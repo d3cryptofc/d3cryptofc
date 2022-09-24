@@ -19,25 +19,29 @@ print('Hello World!')
 
 ### My Setup
 
-```YAML
-PC Model: Acer Aspire 5 (A515-52G)
-Operational System: Windows 10 Home Single Language
-GPU: NVIDIA GeForce MX130 (VRAM 2GB)
-CPU: Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz 1.80 GHz 64 bits
-RAM: 24GB (DDR4)
-HDD: 1 Terabyte
-
-Terminal:
-  Emulator: Windows Terminal
-  Native: Powershell
-  WSL 2: ArchWSL (zsh) - pacman
-
-Python Tools:
-  Version Management: pyenv
-  Virtual Environment: poetry, venv
-  Python Package Manager: poetry
-  
-Text Editor: VSCodium (forked of vscode)
+```
+$ neofetch
+⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢰⡆⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄  lelzin@d3cryptofc 
+⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢠⣿⣿⡄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄  ----------------- 
+⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢀⣾⣿⣿⣿⡀⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄  · Linux Archcraft x86_64 (arch-based)
+⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⣼⣿⣿⣿⣿⣷⡀⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄  · Acer Aspire 5 (A515-52G V1.14) 
+⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⣼⣿⣿⣿⣿⣿⣿⣷⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄  · Kernel: 5.19.10-arch1-1 
+⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢼⣿⣿⣿⣿⣿⣿⣿⣿⣧⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄  · Terminal Emulator: xfce4-terminal / alacritty
+⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⣰⣤⣈⠻⢿⣿⣿⣿⣿⣿⣿⣧⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄  · Package Manager: pacman
+⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⣰⣿⣿⣿⣿⣮⣿⣿⣿⣿⣿⣿⣿⣧⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄  · Shell: zsh 5.9 
+⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄  · Resolution: 1366x768 
+⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄  · Window Manager: Openbox
+⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄  · CPU: Intel i5-8265U (8) @ 3.900GHz
+⠄⠄⠄⠄⠄⠄⠄⠄⠄⣼⣿⣿⣿⣿⣿⡿⣿⣿⡟⠄⠄⠸⣿⣿⡿⣿⣿⣿⣿⣿⣷⡀⠄⠄⠄⠄⠄⠄⠄⠄  · GPU: NVIDIA GeForce MX130 (VRAM 2GB)
+⠄⠄⠄⠄⠄⠄⠄⠄⣼⣿⣿⣿⣿⣿⡏⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠈⣿⣿⣿⣿⣿⣷⡀⠄⠄⠄⠄⠄⠄⠄  · HDD: 1 Terabyte
+⠄⠄⠄⠄⠄⠄⢀⣼⣿⣿⣿⣿⣿⣿⡗⠄⠄⠄⢀⣠⣤⣀⠄⠄⠄⠸⣿⣿⣿⣿⣿⣿⣷⡀⠄⠄⠄⠄⠄⠄  · RAM: HyperX Impact DDR4 24GB 3200Mhz
+⠄⠄⠄⠄⠄⢀⣾⣿⣿⣿⣿⣿⡏⠁⠄⠄⠄⢠⣿⣿⣿⣿⡇⠄⠄⠄⠄⢙⣿⣿⣻⠿⣿⣷⡀⠄⠄⠄⠄⠄  · Python Version Manager Tool: pyenv
+⠄⠄⠄⠄⢀⣾⣿⣿⣿⣿⣿⣿⣷⣤⡀⠄⠄⠄⠻⣿⣿⡿⠃⠄⠄⠄⢀⣼⣿⣿⣿⣿⣦⣌⠙⠄⠄⠄⠄⠄  · Python Virtual Environment Tool: poetry, venv
+⠄⠄⠄⢠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡀⠄⠄⠄  · Python Package Manager Tool: poetry
+⠄⠄⢠⣿⣿⣿⣿⣿⣿⣿⡿⠟⠋⠁⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠙⠻⣿⣿⣿⣿⣿⣿⣿⣿⡄⠄⠄  · Python CLI Installer: pipx
+⠄⣠⣿⣿⣿⣿⠿⠛⠋⠁⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠉⠙⠻⢿⣿⣿⣿⣿⣆⠄  · Code Editor: VSCodium (forked of vscode)
+⡰⠟⠛⠉⠁⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠉⠙⠛⠿⢆
+                                                                  
 ```
 
 ## Contact

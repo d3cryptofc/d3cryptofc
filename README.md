@@ -39,7 +39,7 @@ $ neofetch
 ⠄⠄⠄⠄⢀⣾⣿⣿⣿⣿⣿⣿⣷⣤⡀⠄⠄⠄⠻⣿⣿⡿⠃⠄⠄⠄⢀⣼⣿⣿⣿⣿⣦⣌⠙⠄⠄⠄⠄⠄  · Python Virtual Environment Tool: poetry, venv
 ⠄⠄⠄⢠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡀⠄⠄⠄  · Python Package Manager Tool: poetry
 ⠄⠄⢠⣿⣿⣿⣿⣿⣿⣿⡿⠟⠋⠁⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠙⠻⣿⣿⣿⣿⣿⣿⣿⣿⡄⠄⠄  · Python CLI Installer: pipx
-⠄⣠⣿⣿⣿⣿⠿⠛⠋⠁⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠉⠙⠻⢿⣿⣿⣿⣿⣆⠄  · Code Editor: VSCodium (forked of vscode)
+⠄⣠⣿⣿⣿⣿⠿⠛⠋⠁⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠉⠙⠻⢿⣿⣿⣿⣿⣆⠄  · Code Editor: VSCodium (based on vscode)
 ⡰⠟⠛⠉⠁⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠉⠙⠛⠿⢆
                                                                   
 ```

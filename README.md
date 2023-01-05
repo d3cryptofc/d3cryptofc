@@ -1,23 +1,24 @@
+<img align="center" width="20" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/raw/master/programming%20languages/python.svg"/> **Python (main)**
 ```python3
 # Who am i? I'm just a Python enthusiast and english beginner.
 
 print('Whats up! 👋')
 ```
 
-### Programing Languages (sorted by afinity)
+<!-- ### Programing Languages (sorted by afinity) -->
 
-1. <img align="center" width="20" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/raw/master/programming%20languages/python.svg"/> **Python (main)**
-2. <img align="center" width="20" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/raw/master/programming%20languages/javascript.svg"/> JavaScript
+
+<!-- 2. <img align="center" width="20" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/raw/master/programming%20languages/javascript.svg"/> JavaScript
 3. <img align="center" width="20" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/raw/master/programming%20languages/php.png"/> PHP
 4. <img align="center" width="20" src="https://github.com/abrahamcalf/programming-languages-logos/raw/master/src/lua/lua.svg"/> Lua
-5. <img align="center" width="20" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/raw/master/programming%20languages/java.svg"/> Java
+5. <img align="center" width="20" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/raw/master/programming%20languages/java.svg"/> Java -->
 
-### Passions
+#### 📌 Topics
 * Open-source and free software.
 * Functional programing.
 * Python philosophy ([PEP 20 - The Zen of Python by Tim Peters](https://www.python.org/dev/peps/pep-0020))<br/>“We don't program for the machine, but for humans”
 
-### My Setup
+#### 🖥 My Setup
 
 ```
 $ neofetch

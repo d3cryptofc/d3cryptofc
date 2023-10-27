@@ -8,6 +8,7 @@
 * Semantic versioning: [🇧🇷](https://semver.org/lang/pt-BR/), [🇺🇸](https://semver.org/)
 * The Zen of Python - Philosophy: [🇧🇷](https://pythonacademy.com.br/zen-of-python), [🇺🇸](https://www.python.org/dev/peps/pep-0020)
 * Python best programing practices ([PEP 8](https://peps.python.org/pep-0008/), [PEP 257](https://peps.python.org/pep-0257/), [Flake8](https://www.flake8rules.com/)).
+* Assembly NASM - Linux x86_64 study: [🇧🇷](https://codeberg.org/blau_araujo/assembly-nasm-x86_64)
 
 #### 📬 Contact
 You can find me on [Telegram](t.me/d3cryptofc), otherwise you can to open an issue in this [repository](../..).

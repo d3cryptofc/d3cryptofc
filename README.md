@@ -14,9 +14,7 @@
 #### 📬 Contact Me
 You can find me on [Telegram](t.me/d3cryptofc), otherwise you can to open an issue in this [repository](../..).
 
-#### ❤️ Support Me
-
-TON Wallet
+#### TON Wallet
 ```
 EQDwqfjXSOcpNVuRRqOLFV9krrY9xjdKPx9pF7R45rEPUcAB
 ```

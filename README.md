@@ -1,4 +1,19 @@
-#### 📌 Nice Articles
+## 🚀 About Me
+
+A software developer and technology enthusiast, passionate about building reliable and maintainable solutions.
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=d3cryptofc&theme=gotham&show_icons=true&hide_border=true&rank_icon=github" width=400>
+
+- 📝 Best Practices: software architeture, coding standards, design principles, clean code.
+- 🚀 Deployment: cloud architeture, orchestrators, redundancy, resilience, high availability, CI/CD.
+- 🧪 Testing: unit, integration, fuzzy, property e etc.
+- 🔬 Exploration & Engineering: bit-level analysis, reverse engineering.
+
+Would you like to talk to me? Open an issue [here](.)!
+
+
+## 📌 Nice Articles
+
 * Open-source and free software: [🇧🇷](https://opensource.guide/pt), [🇺🇸](https://opensource.guide/)
 * Python functional programing: [🇧🇷](https://dunossauro.github.io/python-funcional/)
 * Choose a license: [🇧🇷](https://escolhaumalicenca.com.br/), [🇺🇸](https://choosealicense.com/)
@@ -12,11 +27,3 @@
 * Assembly NASM - Linux x86_64 study: [🇧🇷](https://codeberg.org/blau_araujo/assembly-nasm-x86_64)
 * Oh Shit, Git?: [🇧🇷](https://ohshitgit.com/pt_br/swears/), [🇺🇸](https://ohshitgit.com/)
 * Dont Ask to Ask: [🇧🇷](https://dontasktoask.com/pt-br/), [🇺🇸](https://dontasktoask.com/)
-
-#### 📬 Contact Me
-You can find me on [Telegram](t.me/d3cryptofc), otherwise you can to open an issue in this [repository](../..).
-
-#### TON Wallet
-```
-EQDwqfjXSOcpNVuRRqOLFV9krrY9xjdKPx9pF7R45rEPUcAB
-```

@@ -5,7 +5,7 @@ A software developer and technology enthusiast, passionate about building reliab
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=d3cryptofc&theme=gotham&show_icons=true&hide_border=true&rank_icon=github" width=400>
 
 - 📝 Best Practices: software architeture, coding standards, design principles, clean code.
-- 🚀 Deployment: cloud architeture, orchestrators, redundancy, resilience, high availability, CI/CD.
+- 🚀 Deployment: cloud architeture, orchestrators, observability, redundancy, resilience, high availability, CI/CD.
 - 🧪 Testing: unit, integration, fuzzy, property e etc.
 - 🔬 Exploration & Engineering: bit-level analysis, reverse engineering.
 
